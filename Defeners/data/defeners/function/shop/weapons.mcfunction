@@ -1,0 +1,8 @@
+tellraw @s[scores={class=1}] [{"text": "------------------------------", "color": "green", "bold": true}]
+tellraw @s[scores={class=1}] [{"text": "SWORD OF WARRIOR: ", "color": "red", "bold": true}, {"text": "500 ", "color": "green", "bold": true}, {"text": "COINS", "color": "yellow", "bold": true}]
+tellraw @s[scores={class=1}] [{"text": "SCYTHE OF DEATH: ", "color": "gray", "bold": true}, {"text": "750 ", "color": "green", "bold": true}, {"text": "COINS", "color": "yellow", "bold": true}]
+tellraw @s[scores={class=1}] [{"text": "HAMMER OF ZEUS: ", "color": "aqua", "bold": true}, {"text": "850 ", "color": "green", "bold": true}, {"text": "COINS", "color": "yellow", "bold": true}]
+tellraw @s[scores={class=1}] [{"text": "GOLDEN AXE: ", "color": "yellow", "bold": true}, {"text": "450 ", "color": "green", "bold": true}, {"text": "COINS", "color": "yellow", "bold": true}]
+tellraw @s[scores={class=1}] [{"text": "STUNNING SHOVEL: ", "color": "dark_aqua", "bold": true}, {"text": "350 ", "color": "green", "bold": true}, {"text": "COINS", "color": "yellow", "bold": true}]
+tellraw @s[scores={class=1}] [{"text": "HORN: ", "color": "dark_gray", "bold": true}, {"text": "350 ", "color": "green", "bold": true}, {"text": "COINS", "color": "yellow", "bold": true}]
+tellraw @s[scores={class=1}] [{"text": "------------------------------", "color": "green", "bold": true}]

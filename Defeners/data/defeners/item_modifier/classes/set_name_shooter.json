@@ -1,0 +1,11 @@
+[
+    {
+      "function": "minecraft:set_name",
+      "name": {
+        "text": "SHOOTER",
+        "color": "yellow",
+        "bold": true,
+        "italic": false
+      }
+    }
+  ]

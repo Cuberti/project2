@@ -1,0 +1,11 @@
+[
+    {
+      "function": "minecraft:set_name",
+      "name": {
+        "text": "MAGICIAN",
+        "color": "light_purple",
+        "bold": true,
+        "italic": false
+      }
+    }
+  ]

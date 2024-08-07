@@ -1,0 +1,11 @@
+[
+    {
+      "function": "minecraft:set_name",
+      "name": {
+        "text": "TEAMS",
+        "color": "dark_purple",
+        "bold": true,
+        "italic": false
+      }
+    }
+  ]

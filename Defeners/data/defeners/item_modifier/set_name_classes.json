@@ -1,0 +1,11 @@
+[
+    {
+      "function": "minecraft:set_name",
+      "name": {
+        "text": "CLASSES",
+        "color": "gold",
+        "bold": true,
+        "italic": false
+      }
+    }
+  ]

@@ -1,0 +1,11 @@
+[
+    {
+      "function": "minecraft:set_name",
+      "name": {
+        "text": "WARRIOR",
+        "color": "red",
+        "bold": true,
+        "italic": false
+      }
+    }
+  ]

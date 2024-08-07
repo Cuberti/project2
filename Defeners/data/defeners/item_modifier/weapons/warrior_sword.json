@@ -1,0 +1,38 @@
+[
+    {
+      "function": "minecraft:set_name",
+      "name": {
+        "text": "SWORD OF WARRIOR",
+        "color": "red",
+        "bold": true,
+        "italic": false
+      }
+    },
+
+    {
+        "function": "minecraft:set_attributes",
+        "modifiers": [
+          {
+            "id": "att_warrior_sword",
+            "attribute": "minecraft:generic.attack_damage",
+            "amount": 1.5,
+            "operation": "add_value",
+            "slot": "mainhand"
+          },
+          {
+              "id": "att_warrior_sword",
+              "attribute": "minecraft:generic.attack_speed",
+              "amount": -2.5,
+              "operation": "add_value",
+              "slot": "mainhand"
+          }
+        ]
+      },
+
+      {
+        "function": "minecraft:set_components",
+        "components": {
+          "minecraft:unbreakable": {}
+        }
+      }
+  ]
